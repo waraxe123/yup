@@ -10,7 +10,8 @@
 	],
 
 	"logo": "https://telegra.ph/file/3aacd6c0cfe8c852e43c0.jpg",
-	"repository": "https://github.com/DarkSoulxUltra/DestinyBot",
+	"repository": "https://github.com/DarkSoulxUltra/DestinyBot", 
+        "stack": "heroku-22",
 	"addons": [{
 		"options": {
 			"version": "12"
